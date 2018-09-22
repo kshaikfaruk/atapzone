@@ -28,7 +28,7 @@ $ curl http://localhost:8080/api/greeting
 
 $ curl http://localhost:8080/api/greeting?name=Sarah
 {"content":"Hello, Sarah!"}
-----
+----hello
 
 
 == Updating the Booster
